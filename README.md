@@ -13,5 +13,3 @@ For example, install the Java pet:
 ```sh
 curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/java.sh | bash
 ```
-
-Use the current `main` branch for installation. This collection does not publish version tags or releases.
