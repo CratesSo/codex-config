@@ -1,6 +1,6 @@
 # Agents
 
-Public Codex global instructions and custom agent definitions in the codex-config repository.
+Global instructions and custom agent definitions.
 
 ## Install
 
