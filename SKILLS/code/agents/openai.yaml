@@ -1,0 +1,9 @@
+interface:
+  display_name: "Code"
+  short_description: "Clean implementation mode"
+  default_prompt: "Use this skill for coding implementation tasks."
+
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+policy:
+  allow_implicit_invocation: true

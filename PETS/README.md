@@ -1,0 +1,91 @@
+# Codex Pets
+
+---
+
+## Java
+
+*A sleepy, plain, and simple cup of coffee.*
+
+![Java preview](previews/java.webp)
+
+Install Java:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/java.sh | bash
+```
+
+---
+
+## Elyndex
+
+*A sleek Culture-inspired floating drone.*
+
+![Elyndex preview](previews/elyndex.webp)
+
+Install Elyndex:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/elyndex.sh | bash
+```
+
+---
+
+## Nukie
+
+*A laid-back atomic bomb with a painted peace sign.*
+
+![Nukie preview](previews/nukie.webp)
+
+Install Nukie:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/nukie.sh | bash
+```
+
+---
+
+## Owlbear Cub
+
+*A curious and brave owlbear cub.*
+
+![Owlbear Cub preview](previews/owlbear-cub.webp)
+
+Install Owlbear Cub:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/owlbear-cub.sh | bash
+```
+
+---
+
+## Moonlantern Pixie
+
+*A captive pixie inside a Moonlantern. Grants protection from the Shadow Curse.*
+
+![Moonlantern Pixie preview](previews/dolly.webp)
+
+Install Moonlantern Pixie:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/dolly.sh | bash
+```
+
+---
+
+## Cow King
+
+*Mooo, moo moo moo. MOOO!*
+
+![Cow King preview](previews/cow-king.webp)
+
+Install Cow King:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/CratesSo/codex-config/main/PETS/install/cow-king.sh | bash
+```
+
+---
+
+## Backup Behavior
+
+*Existing pets with the same id are saved with a timestamp before the new copy is installed.*

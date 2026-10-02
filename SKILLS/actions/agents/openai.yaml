@@ -1,0 +1,9 @@
+interface:
+  display_name: "Actions"
+  short_description: "Manage workspace actions"
+  default_prompt: "Use $actions."
+
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+policy:
+  allow_implicit_invocation: false

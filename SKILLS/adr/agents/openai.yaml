@@ -1,0 +1,9 @@
+interface:
+  display_name: "ADR"
+  short_description: "Record durable architecture decisions"
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  default_prompt: "Use $adr when durable changes affect architecture, tooling, data shape, workflow, repo conventions, or agent behavior."
+
+policy:
+  allow_implicit_invocation: true
