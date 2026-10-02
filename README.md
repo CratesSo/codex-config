@@ -4,7 +4,7 @@ Codex agents, skills, and pets, published together from the `main` branch of [Cr
 
 | Collection | Contents | Installation |
 | --- | --- | --- |
-| [AGENTS](AGENTS/README.md) | Global instructions and custom subagent definitions. | [Agent installation](AGENTS/README.md#files-and-installation) |
+| [AGENTS](AGENTS/README.md) | Global instructions and custom subagent definitions. | [Agent installation](AGENTS/README.md#install) |
 | [SKILLS](SKILLS/README.md) | Planning, handoff, actions, architecture decisions, and engineering skills. | [Skill catalog and install commands](SKILLS/README.md) |
 | [PETS](PETS/README.md) | Custom pets, animated previews, and installers. | [Pet catalog and install commands](PETS/README.md) |
 
